@@ -1,4 +1,4 @@
-# Covid Mask Classification Pipline
+# Covid Mask Classification Pipeline
 
 This repository contains the necessary notebooks to traing, test, and probe different Deep Learning models in order to classify the incorrect use of face masks for COVID-19 awareness. 
 
@@ -36,7 +36,7 @@ accurate.
 - [covid_mask_classification_GradCams.ipynb](colab_notebooks/analyzing_results/covid_mask_classification_GradCams.ipynb) : This notebook let us to plot the Grad-CAMS for the wrong predictions. Grad-CAMS are useful to determine the regions of an image the model focus on to make a prediction. 
 
 
-## Dataset
+## Datasets
 
 The dataset is publicy available on Google Drive. It is a merge between the FMLD dataset and the Medical Mask Dataset. 
 
